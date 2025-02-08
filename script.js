@@ -9,7 +9,8 @@ import {CARD_IMAGE, play_game} from "./js/game.js"; // We are 'importing' variab
 // === START #1.1 ===
 // TODO #1.1: Add your with your name!
 // Remove the '/*' and '*/ once you do
-/*
+/*PLAYER_NAME = ("K");
+#p1_name = PLAYER_NAME;
 const PLAYER_NAME ? ???;
 document.getElementById('???').textContent = ???;
 console.log("Let's play " + PLAYER_NAME +"!");
